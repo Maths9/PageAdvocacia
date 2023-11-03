@@ -45,7 +45,7 @@
             // options
             itemSelector: bsbProject2.itemSelector,
             layoutMode: 'packery',
-            transitionDuration: '0.8s'
+            transitionDuration: '0.5s'
           });
         });
 

@@ -14646,7 +14646,7 @@ fieldset:disabled .btn {
 @media (min-width: 1200px) {
   .bsb-cta-1 {
     padding-bottom: 10rem;
-    padding-top: 10rem;
+    padding-top: 4rem;
   }
 }
 
@@ -14730,7 +14730,7 @@ fieldset:disabled .btn {
 }
 @media (min-width: 1200px) {
   .navbar {
-    min-height: 125px;
+    min-height: 2rem;
   }
 }
 .bsb-tpl-header-sticky.sticky-top.stuck .navbar {
