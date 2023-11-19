@@ -3159,7 +3159,7 @@ fieldset:disabled .btn {
 .btn-primary {
   letter-spacing: 0.90px;
   --bs-btn-color: #fff;
-  --bs-btn-bg: #ECD087;
+  --bs-btn-bg: #7B8055;;
   --bs-btn-hover-color: #fff;
   --bs-btn-hover-bg: #b6bcda91;
  
@@ -4665,7 +4665,7 @@ fieldset:disabled .btn {
   --bs-accordion-body-padding-x: 1.25rem;
   --bs-accordion-body-padding-y: 1rem;
   --bs-accordion-active-color: #fff;
-  --bs-accordion-active-bg: #2f3f9f;
+  --bs-accordion-active-bg: #7B8055;
 }
 .accordion-button {
   align-items: center;
@@ -4773,6 +4773,7 @@ fieldset:disabled .btn {
 }
 .accordion-flush .accordion-item .accordion-button,
 .accordion-flush .accordion-item .accordion-button.collapsed {
+  
   border-radius: 0;
 }
 [data-bs-theme="dark"] .accordion-button:after {
@@ -8205,6 +8206,10 @@ fieldset:disabled .btn {
   margin-bottom: auto !important;
   margin-top: auto !important;
 }
+.widget {
+  color: white;
+}
+
 .mt-0 {
   margin-top: 0 !important;
 }
@@ -8282,6 +8287,7 @@ fieldset:disabled .btn {
 }
 .mb-1 {
   margin-bottom: 0.25rem !important;
+ 
 }
 .mb-2 {
   margin-bottom: 0.5rem !important;
@@ -8291,6 +8297,7 @@ fieldset:disabled .btn {
 }
 .mb-4 {
   margin-bottom: 1.5rem !important;
+ 
 }
 .mb-5 {
   margin-bottom: 3rem !important;
